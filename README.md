@@ -35,4 +35,6 @@ Our target variable(airline_sentiment)'s frequency is ;
     
 ## Tweet Counts per Airline Companies
 
-![
+![Tweet Counts](./pictures/count.png)
+
+    Customer Service Issue and Late Flight leads for general negative reasons from customer reviews.
