@@ -82,3 +82,8 @@ The main metric that  I would be using to assess my models performance is `accur
     
     
     This scores calculated on `test sets`. 
+
+### Sequential 
+    1. First Model Score      : 0.7845
+    2. Second(Improved) Model : 0.9286
+    
