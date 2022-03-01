@@ -37,4 +37,17 @@ Our target variable(airline_sentiment)'s frequency is ;
 
 ![Tweet Counts](./pictures/count.png)
 
+    This graph basically shows us tweet counts per airline companies depend on our data.
+    
+
+## Sentiments per Airline Companies
+
+![Sentiment](./pictures/sentiment.png)
+
+    Green bars shows us negative tweets and obviously negatives are really higher than others.
+    
+## Negative Reasons
+
+![NegReason](./pictures/negReason.png)
+
     Customer Service Issue and Late Flight leads for general negative reasons from customer reviews.
