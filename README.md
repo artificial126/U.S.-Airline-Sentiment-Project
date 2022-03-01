@@ -90,3 +90,10 @@ The main metric that  I would be using to assess my models performance is `accur
 Last Model visuals;
 ![1](./pictures/last_loss_acc.png)
 ![2](./pictures/last_conf_matrix.png)
+
+
+## Future Step 
+
+    We can work on detail text and improve our model.
+    For example we still get little bit of false positive,neutral or negatives. We would work why is that and what we could do more on our model.
+    Also gather more tweets about these airline companies
