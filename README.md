@@ -51,3 +51,9 @@ Our target variable(airline_sentiment)'s frequency is ;
 ![NegReason](./pictures/negReason.png)
 
     Customer Service Issue and Late Flight leads for general negative reasons from customer reviews.
+    
+    
+## Negative Reasons per Airline Companies
+
+![1](./pictures/perCompany1.png)
+![2](./pictures/perCompany2.png)
