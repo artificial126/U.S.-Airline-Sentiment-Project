@@ -87,3 +87,6 @@ The main metric that  I would be using to assess my models performance is `accur
     1. First Model Score      : 0.7845
     2. Second(Improved) Model : 0.9286
     
+Last Model visuals;
+![1](./pictures/last_loss_acc.png)
+![2](./pictures/last_conf_matrix.png)
