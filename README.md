@@ -58,9 +58,26 @@ Our target variable(airline_sentiment)'s frequency is ;
 ![1](./pictures/perCompany1.png)
 ![2](./pictures/perCompany2.png)
 
-    First of all Customer Service Issue leads for most of airline companies for negative reason as expected from previous graph. United airlines second problem **Late Flight** apperantly big problem for this airline for count compare to other airlines. And also lost luggage problem is higher at the United airlines than others.
+    First of all Customer Service Issue leads for most of airline companies for negative reason as expected from previous graph. United airlines second problem `Late Flight` apperantly big problem for this airline for count compare to other airlines. And also lost luggage problem is higher at the United airlines than others.
     
     At Delta airlines instead of customer service late flight leads for negative reason.
     
     And for Virgin America booking problems look like a needs to be work on.
+    
+
+## Modeling 
+
+The main metric that  I would be using to assess my models performance is `accuracy score`. Because each class equally important for us. We want to predict every class equally. Not focusing only positive or negatives. Every class important for this project.
+
+### CountVectorizer
+    1. Logistic Regression Score : 0.74
+    2. Naive Bayes Score         : 0.77
+    3. Ada Boost Score           : 0.75
+    
+### TF-IDF 
+    1. Naive Bayes Score         : 0.70
+    2. Logistic Regression Score : 0.77
+    3. Random Forest Score       : 0.68
+    4. Gradient Boosting Score   : 0.73
+    
     
