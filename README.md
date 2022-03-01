@@ -57,3 +57,10 @@ Our target variable(airline_sentiment)'s frequency is ;
 
 ![1](./pictures/perCompany1.png)
 ![2](./pictures/perCompany2.png)
+
+    First of all Customer Service Issue leads for most of airline companies for negative reason as expected from previous graph. United airlines second problem **Late Flight** apperantly big problem for this airline for count compare to other airlines. And also lost luggage problem is higher at the United airlines than others.
+    
+    At Delta airlines instead of customer service late flight leads for negative reason.
+    
+    And for Virgin America booking problems look like a needs to be work on.
+    
